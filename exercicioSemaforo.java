@@ -18,7 +18,7 @@ public class exercicioSemaforo {
         else{
             System.out.println("Siga!");
         }
-
+        scanner.close();
 
     }
 }

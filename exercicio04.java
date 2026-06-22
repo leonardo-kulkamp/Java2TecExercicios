@@ -18,7 +18,7 @@ public class exercicio04 {
         else{
             System.out.println("Siga!");
         }
-
+        scanner.close();
 
     }
 }
